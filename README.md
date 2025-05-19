@@ -6,8 +6,8 @@ A demo project showcasing the use of Strands Agents with Azure OpenAI integratio
 
 ## 📚 Documentation
 
-- [Strands Agents SDK Documentation](https://strandsagents.com/0.1.x/)
-- [GitHub Repository](https://github.com/strands-agents/sdk-python)
+- Strands Agents SDK Documentation: https://strandsagents.com/0.1.x/
+- GitHub Repository: https://github.com/strands-agents/sdk-python
 
 ## 🚀 Features
 
