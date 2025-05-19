@@ -1,11 +1,18 @@
 # 🤖 Strands Agents Demo
 
+AWS making a major contribution to the open source AI community with the launch of the Strands Agents, an open source AI agents SDK! https://lnkd.in/gJvVasGm
+
 A demo project showcasing the use of Strands Agents with Azure OpenAI integration.
+
+## 📚 Documentation
+
+- [Strands Agents SDK Documentation](https://strandsagents.com/0.1.x/)
+- [GitHub Repository](https://github.com/strands-agents/sdk-python)
 
 ## 🚀 Features
 
 - 🤖 Integration with Azure OpenAI through LiteLLM
-- 🛠️ Built-in tools support (calculator, current time, Python REPL)
+- 🛠️ Built-in tools support (calculator, current_time, python_repl)
 - 🔄 Streaming responses
 - 🔒 Secure credential management
 
